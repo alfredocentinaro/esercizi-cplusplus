@@ -13,9 +13,9 @@ int main()
     int a, b;
     int somma = 0;
   
-    cout << "Inserisci il primo numero";
+    cout << "Inserisci il primo numero ";
     cin >> a;  
-    cout << "Inserisci un altro numero";
+    cout << "Inserisci un altro numero ";
     cin >> b; 
   
     while (a != b )
